@@ -1,0 +1,73 @@
+
+.header {
+    background-color: #333;
+    color: #865151;
+    padding: 10px;
+}
+.navbar {
+    text-align: left; 
+}
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px; 
+}
+.logo {
+    float:right; 
+    color: #3aa235;
+    font-style: italic;
+}
+
+body {
+    font-family:  helvetica, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    word-spacing: 8px;
+}
+
+.navbar a:hover {
+    color: #1c1010;
+}
+.about{
+    background-color: #ff9933;
+    padding: 20px;
+    color: rgb(238, 242, 233);
+    display: ;
+    font-size: 20px;
+}
+.skill{
+    background-color:#71C5E8 ;
+    color:#e4d4d6;
+    padding: 10px;
+    background-image: url(pexels-bradley-hook-123335.jpg);
+}
+.circle {
+    width: 700px; 
+    height: 200px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+}
+.para{
+    display: flex;
+    max-width: 1500px;
+}
+.luka {
+color: blueviolet;
+font-size: 20px;
+font-style: oblique;
+}
+.xyl{
+    width: 700px; 
+    height: 300px; 
+    border-radius: 8%; 
+    overflow: hidden; 
+}
+.dree{
+    padding: 20px;
+    background-color:#e03e52;
+    
+}
+.pasi{
+    background-color: #e03e52;
+    letter-spacing: 4px;
+}
